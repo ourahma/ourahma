@@ -24,10 +24,9 @@ Welcome to my GitHub profile! I'm a passionate developer from Morocco 🇲🇦, 
 
 ---
 
-## 📊 GitHub Stats
-![OURAHMA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ourahma&show_icons=true&theme=radical)
+### 📊 Most Used Languages
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ourahma&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ourahma&layout=compact&theme=radical)
 
 ---
 
