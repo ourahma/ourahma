@@ -1,5 +1,5 @@
 ## Hi there, I'm OURAHMA Maroua 👋
-Welcome to my GitHub profile! I'm a passionate developer from Morocco 🇲🇦, currently pursuing a master's in Artificial Intelligence and Data Science. I enjoy creating projects in full stack development and exploring cloud computing, AI, and data science.
+Welcome to my GitHub profile! I'm a passionate developer from Morocco 🇲🇦, currently pursuing an Excellence path  in Artificial Intelligence and Data Science. I enjoy creating projects in full stack development and exploring cloud computing, AI, and data science.
 
 - 🔭 I’m currently working on: **[Budget Buddy](https://github.com/ourahma/budget-buddy)** - A personal budget management app
 - 🌱 I’m currently learning: **Java Enterprise Edition (JEE), Machine Learning, Cloud Technologies**
