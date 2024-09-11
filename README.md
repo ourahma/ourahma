@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate developer from Morocco 🇲🇦, 
 - 🌱 I’m currently learning: **Java Enterprise Edition (JEE), Machine Learning, Cloud Technologies**
 - 👯 I’m looking to collaborate on: AI and Data Science projects
 - 💬 Ask me about: Full Stack Development, Cloud Computing, AI
-- ⚡ Fun fact: I love coffee and coding at night!
 
 ---
 
