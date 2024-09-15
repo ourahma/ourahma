@@ -38,14 +38,5 @@ Welcome to my GitHub profile! I'm a passionate developer from Morocco 🇲🇦, 
 
 ---
 
-## 🎨 Fun Facts About Me
-- 🧠 I’m passionate about AI and Machine Learning.
-- 📚 I’m always reading a new tech blog.
-- ☕️ Coffee is my favorite companion during late-night coding sessions.
-- 🌍 I love learning about different cultures and technologies.
-
-![Coding](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
----
 
 Thank you for visiting my profile! Feel free to check out my projects and connect with me.
