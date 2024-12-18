@@ -1,5 +1,5 @@
 ## Hi there, I'm OURAHMA Maroua 👋
-Welcome to my GitHub profile! I'm a passionate developer from Morocco 🇲🇦, currently pursuing an Excellence path  in Artificial Intelligence and Data Science. I enjoy creating projects in full stack development and exploring cloud computing, AI, and data science.
+Welcome to my GitHub profile, currently pursuing a Matser  in Artificial Intelligence and Data Science.
 
 ---
 
