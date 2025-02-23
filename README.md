@@ -3,7 +3,7 @@ Welcome to my GitHub profile, currently pursuing a Matser  in Artificial Intelli
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 ![JEE](https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/AI-Artificial%20Intelligence-brightgreen?style=for-the-badge)
@@ -19,13 +19,13 @@ Welcome to my GitHub profile, currently pursuing a Matser  in Artificial Intelli
 
 ---
 
-### 📊 Most Used Languages
+### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ourahma&layout=compact&theme=radical)
 
 ---
 
-## 🚀 My Projects
+##  My Projects
 - [Budget Buddy](https://github.com/ourahma/budget-buddy): A personal budget management app using JEE.
 - [Robot Action Model](https://github.com/ourahma/Robot_Action_Prediction): A robot action prediction model using LSTM.
 - [Diabetes Prediction ML](https://github.com/ourahma/Diabetes_ML) : A KNeighbors Classifier Model to predict diabetes for a patient.
@@ -34,10 +34,10 @@ Welcome to my GitHub profile, currently pursuing a Matser  in Artificial Intelli
 
 ---
 
-## 📫 How to Reach Me
+##  How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maroua-ourahma-293426235)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ourahma)
-[!(Gmail)](marouaourahma@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marouaourahma@gmail.com)
 
 ---
 
