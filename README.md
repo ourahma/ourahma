@@ -27,14 +27,17 @@ Welcome to my GitHub profile, currently pursuing a Matser  in Artificial Intelli
 
 ## 🚀 My Projects
 - [Budget Buddy](https://github.com/ourahma/budget-buddy): A personal budget management app using JEE.
-- [Library Management System](https://github.com/ourahma/library-management-system): A Django-based library management system for universities.
-- More projects available in my repositories!
+- [Robot Action Model](https://github.com/ourahma/Robot_Action_Prediction): A robot action prediction model using LSTM.
+- [Diabetes Prediction ML](https://github.com/ourahma/Diabetes_ML) : A KNeighbors Classifier Model to predict diabetes for a patient.
+- [Diseases Prediction ML](https://github.com/ourahma/Maladie_Prediction) : A Random Forest Classifier Model to classify diseases like measles, influenza and covid-19. .
+- More projects available in my repositories.
 
 ---
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maroua-ourahma-293426235)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ourahma)
+[!(Gmail)](marouaourahma@gmail.com)
 
 ---
 
