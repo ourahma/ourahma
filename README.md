@@ -36,7 +36,6 @@ Welcome to my GitHub profile, currently pursuing a Matser  in Artificial Intelli
 
 ##  How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maroua-ourahma-293426235)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ourahma)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marouaourahma@gmail.com)
 
 ---
