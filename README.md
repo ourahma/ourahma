@@ -1,5 +1,9 @@
-## Hi there, I'm OURAHMA Maroua 👋
-Welcome to my GitHub profile, currently pursuing a Matser  in Artificial Intelligence and Data Science.
+<h1 align="center">Hi 👋, I'm Maroua</h1>
+<h3 align="center">A Master Student majoring in AI and data science with software engineering degree.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ourahma&label=Profile%20views&color=0e75b6&style=flat" alt="ourahma" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ourahma" alt="ourahma" /></a> </p>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
