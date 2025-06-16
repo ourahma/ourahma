@@ -1,7 +1,26 @@
 <h1 align="center">Hi 👋, I'm Maroua</h1>
-<h3 align="center">A Master Student majoring in AI and data science with software engineering degree.</h3>
+<table>
+  <tr>
+    <td style="width: 40%; vertical-align: top;">
+ 
+  <p>🔹Master’s student in Artificial Intelligence & Data Science</p>
+  <p>🔹Software Engineering graduate </p>
+  <p>🔹Passionate about Deep Learning & GANs</p>
+  <p>🔹Builds smart apps with real-time sensors</p>
+  <p>🔹<a href="https://linkedin.com/in/maroua-ourahma">Connect on LinkedIn</a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ourahma&label=Profile%20views&color=0e75b6&style=flat" alt="ourahma" /> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ourahma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+   </td>
+   <td style="width: 60%; text-align: center;">
+     <img src="https://img1.picmix.com/output/stamp/normal/4/4/1/3/2613144_8dbe2.gif" width="100%" alt="Coding GIF"/>
+   </td>
+  </tr>
+</table>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ourahma" alt="ourahma" /></a> </p>
 
