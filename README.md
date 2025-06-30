@@ -40,21 +40,28 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ourahma&show_icons=true&locale=en&layout=compact" alt="ourahma" /></p>
 
 ---
+## My projects
 
-##  My Projects
-- [Budget Buddy](https://github.com/ourahma/budget-buddy): A personal budget management app using JEE.
-- [Robot Action Model](https://github.com/ourahma/Robot_Action_Prediction): A robot action prediction model using LSTM.
-- [Diabetes Prediction ML](https://github.com/ourahma/Diabetes_ML) : A KNeighbors Classifier Model to predict diabetes for a patient.
-- [Diseases Prediction ML](https://github.com/ourahma/Maladie_Prediction) : A Random Forest Classifier Model to classify diseases like measles, influenza and covid-19. .
-- More projects available in my repositories.
-
+[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Health_Project)](https://github.com/ourahma/Health_Project)
+[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=NebulAI)](https://github.com/ourahma/NebulAI)
+[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Library_Management_System)](https://github.com/ourahma/Library_Management_System)
+[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Budget-Buddy)](https://github.com/ourahma/Budget-Buddy)
+[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Q_Learning)](https://github.com/ourahma/Q_Learning)
+[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Robot_Action_Prediction)](https://github.com/ourahma/Robot_Action_Prediction)
+[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Maladie_Prediction)](https://github.com/ourahma/Maladie_Prediction)
 ---
 
 ##  How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maroua-ourahma-293426235)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marouaourahma@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/maroua-ourahma">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;  
+  <a href="mailto:marouaourahma@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
-
 
 Thank you for visiting my profile! Feel free to check out my projects and connect with me.
