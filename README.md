@@ -42,13 +42,14 @@
 ---
 ## My projects
 
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Health_Project)](https://github.com/ourahma/Health_Project)
 [![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=NebulAI)](https://github.com/ourahma/NebulAI)
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Library_Management_System)](https://github.com/ourahma/Library_Management_System)
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Budget-Buddy)](https://github.com/ourahma/Budget-Buddy)
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Q_Learning)](https://github.com/ourahma/Q_Learning)
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Robot_Action_Prediction)](https://github.com/ourahma/Robot_Action_Prediction)
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Maladie_Prediction)](https://github.com/ourahma/Maladie_Prediction)
+[![Project2](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Health_Project)](https://github.com/ourahma/Health_Project)
+[![Project3](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Library_Management_System)](https://github.com/ourahma/Library_Management_System)
+[![Project4](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Budget-Buddy)](https://github.com/ourahma/Budget-Buddy)
+[![Project5](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Q_Learning)](https://github.com/ourahma/Q_Learning)
+[![Project6](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Robot_Action_Prediction)](https://github.com/ourahma/Robot_Action_Prediction)
+[![Project7](https://github-readme-stats.vercel.app/api/pin/?username=ourahma&repo=Maladie_Prediction)](https://github.com/ourahma/Maladie_Prediction)
+
 ---
 
 ##  How to Reach Me
