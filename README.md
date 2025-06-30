@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Maroua</h1>
+<br/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=FF819AFF&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Maroua+%F0%9F%A4%97" 
+      alt="Hi, I am Maroua" 
+    />
+  </a>
+</h1>
+
 <table>
   <tr>
     <td style="width: 40%; vertical-align: top;">
