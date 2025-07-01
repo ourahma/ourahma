@@ -39,10 +39,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?theme=midnight-purple&username=ourahma&show_icons=true&locale=en&layout=compact" alt="ourahma" /></p>
 
----
-## Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ourahma&theme=midnight-purple)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 ----
 
 ## My projects
