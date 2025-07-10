@@ -12,7 +12,7 @@
   <tr>
     <td style="width: 40%; vertical-align: top;">
  
-  <p>🔹Master’s student in Artificial Intelligence & Data Science</p>
+  <p>🔹M1 student in Artificial Intelligence & Data Science</p>
   <p>🔹Software Engineering graduate </p>
   <p>🔹Passionate about Deep Learning & GANs</p>
   <p>🔹Builds smart apps with real-time sensors</p>
