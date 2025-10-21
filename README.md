@@ -45,14 +45,13 @@
 ## My projects
 
 [![Project1](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=NebulAI)](https://github.com/ourahma/NebulAI)
-[![Project2](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=TsaraIA)](https://github.com/ourahma/TsaraIA)
-[![Project3](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=Academic_research_Agent)](https://github.com/ourahma/Academic_research_Agent)
+
 [![Project4](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=Health_Project)](https://github.com/ourahma/Health_Project)
-[![Project5](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=Library_Management_System)](https://github.com/ourahma/Library_Management_System)
+[![Project5](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=LipsReadingApp)](https://github.com/ourahma/LipsReadingApp)
 [![Project6](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=Budget-Buddy)](https://github.com/ourahma/Budget-Buddy)
-[![Project7](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=Q_Learning)](https://github.com/ourahma/Q_Learning)
+[![Project7](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=Speech_Commands)](https://github.com/ourahma/Speech_Commands)
 [![Project8](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=Robot_Action_Prediction)](https://github.com/ourahma/Robot_Action_Prediction)
-[![Project6](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=Maladie_Prediction)](https://github.com/ourahma/Maladie_Prediction)
+[![Project9](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=Maladie_Prediction)](https://github.com/ourahma/Maladie_Prediction)
 
 ---
 
