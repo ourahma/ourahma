@@ -45,7 +45,8 @@
 ## My projects
 
 [![Project1](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=NebulAI)](https://github.com/ourahma/NebulAI)
-
+[![Project2](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=TsaraIA)](https://github.com/ourahma/TsaraIA)
+[![Project3](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=Academic_research_Agent)](https://github.com/ourahma/Academic_research_Agent)
 [![Project4](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=Health_Project)](https://github.com/ourahma/Health_Project)
 [![Project5](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=LipsReadingApp)](https://github.com/ourahma/LipsReadingApp)
 [![Project6](https://github-readme-stats.vercel.app/api/pin/?theme=midnight-purple&username=ourahma&repo=Budget-Buddy)](https://github.com/ourahma/Budget-Buddy)
