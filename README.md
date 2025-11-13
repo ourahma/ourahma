@@ -12,12 +12,26 @@
   <tr>
     <td style="width: 40%; vertical-align: top;">
  
-  <p> ✨ M2 student in Artificial Intelligence & Data Science</p>
+  <p> ✨ I'm a Master student in Artificial Intelligence & Data Science</p>
   <p> ✨ Software Engineering graduate </p>
-  <p> ✨ Passionate about Deep Learning & AgenticIA</p>
+  <p> ✨ Passionate about Machine Learning, Deep Learning, and full‑stack development.</p>
   <p> ✨ Builds smart apps with real-time sensors</p>
-  <p> ✨ <a href="https://linkedin.com/in/maroua-ourahma">Connect on LinkedIn</a></p>
-  <p> ✨ <a href="https://maroua-ourahma.netlify.app/">Check my portfolio</a></p>
+ 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/maroua-ourahma">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;  
+  <a href="mailto:marouaourahma@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;  
+   <a href="https://maroua-ourahma.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=Portoflio&logoColor=white" alt="Potfolio" />
+  </a>
+</p>
+  
+  
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ourahma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
