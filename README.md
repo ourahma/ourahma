@@ -102,18 +102,6 @@
 
 
 ----
-
-## My projects
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=ourahma&repo=NebulAI)](https://github.com/ourahma/NebulAI)
-[![Project2](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=ourahma&repo=TsaraIA)](https://github.com/ourahma/TsaraIA)
-[![Project3](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=ourahma&repo=Academic_research_Agent)](https://github.com/ourahma/Academic_research_Agent)
-[![Project4](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=ourahma&repo=Health_Project)](https://github.com/ourahma/Health_Project)
-[![Project5](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=ourahma&repo=LipsReadingApp)](https://github.com/ourahma/LipsReadingApp)
-[![Project6](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=ourahma&repo=Budget-Buddy)](https://github.com/ourahma/Budget-Buddy)
-[![Project7](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=ourahma&repo=Speech_Commands)](https://github.com/ourahma/Speech_Commands)
-[![Project8](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=ourahma&repo=Robot_Action_Prediction)](https://github.com/ourahma/Robot_Action_Prediction)
-
----
 ## My GitHub activity
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
